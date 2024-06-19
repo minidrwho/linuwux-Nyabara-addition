@@ -6,22 +6,27 @@ Linuwux is a collection of uwu images of distros.
 Please read [Contributing.MD](contributing.md)
 
 # Contents
-1. [Fedowa](#fedowa)
-2. [Gentchu](#gentchu)
-3. [Nyarch](#nyarch)
-4. [UwUntu](#uwuntu)
-5. [Debinyan](#debinyan)
-6. [Mwint](#mwint)
-7. [OwOid](#owoid)
-8. [Swackware](#swackware)
-9. [Powopowos](#powopowos)
-10. [Ewndeavourowos](#ewndeavourowos)
-11. [ArcowoLinux](#arcowolinux)
-12. [Bedowock](#bedowock)
-13. [FweeBSD](#fweebsd)
-14. [NyartixLinux](#nyartixlinux)
-15. [Nyanjaro](#nyanjaro)
+1. [Nyabara](#Nyabara) 
+2. [Fedowa](#fedowa)
+3. [Gentchu](#gentchu)
+4. [Nyarch](#nyarch)
+5. [UwUntu](#uwuntu)
+6. [Debinyan](#debinyan)
+7. [Mwint](#mwint)
+8. [OwOid](#owoid)
+9. [Swackware](#swackware)
+10. [Powopowos](#powopowos)
+11. [Ewndeavourowos](#ewndeavourowos)
+12. [ArcowoLinux](#arcowolinux)
+13. [Bedowock](#bedowock)
+14. [FweeBSD](#fweebsd)
+15. [NyartixLinux](#nyartixlinux)
+16. [Nyanjaro](#nyanjaro)
 
+## Nyabara
+![Nyabara](Nyabara.png)
+
+Source: I made it myself
 
 ## Fedowa
 ![Fedowa](fedowa.png)
